@@ -17,24 +17,3 @@ function saved() {
 }
 
 
-
-
-
-
-// let username  = "per"
-// let message = "You are a three new notifications"
-
-// let messageToUser = message + "," + username + "!"
-
-// console.log(messageToUser)
-
-
-// let welcomeEL = document.getElementById("welcome-el")
-
-// let name = "Tomi Ajayi"
-
-// let greeting = "Hello, Good morning "
-
-// welcomeEL.innerText = greeting + name 
-// welcomeEL.innerText +=  "👋"
-
